@@ -1,5 +1,5 @@
 <?php
-
+//Anil Gomez.D  worked on log
 // Check if the install folder exists - if so then show the installer app
 if (is_dir(dirname(__FILE__).'/install') == true)
 {
