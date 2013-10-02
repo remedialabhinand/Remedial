@@ -1,5 +1,6 @@
 <?php
 //Anil Gomez.D  worked on log
+//New work on 3rd day
 // Check if the install folder exists - if so then show the installer app
 if (is_dir(dirname(__FILE__).'/install') == true)
 {
